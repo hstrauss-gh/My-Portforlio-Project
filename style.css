@@ -1,0 +1,13 @@
+html {
+  height: 100%;
+  width: 100%;}
+body{background-color: #e1bce1}
+
+
+
+.row{
+  display: flex; }
+}
+
+.col{
+  flex: 50%; }
